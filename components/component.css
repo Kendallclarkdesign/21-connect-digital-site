@@ -1,0 +1,161 @@
+.component-container {
+  width: 100%;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-items: center;
+  border-color: #969696;
+  border-width: 1px;
+  flex-direction: column;
+}
+ 
+.component-max-width {
+  width: 100%;
+  display: flex;
+  max-width: var(--dl-layout-size-maxwidth);
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.component-content {
+  align-self: stretch;
+  align-items: flex-start;
+}
+ 
+.component-ul {
+  align-items: flex-start;
+}
+ 
+.component-heading1 {
+  align-self: flex-start;
+}
+ 
+.component-li3 {
+  flex: 1;
+  height: 143px;
+  line-height: 2;
+}
+ 
+.component-content31 {
+  height: 67px;
+}
+ 
+.component-link1 {
+  width: 169px;
+  border-radius: var(--dl-layout-radius-radius8);
+  text-decoration: none;
+  background-color: rgb(200, 137, 72);
+}
+ 
+.component-fragment10 {
+  display: contents;
+}
+ 
+.component-text11 {
+  display: inline-block;
+}
+ 
+.component-fragment11 {
+  display: contents;
+}
+ 
+.component-text12 {
+  display: inline-block;
+}
+ 
+.component-fragment12 {
+  display: contents;
+}
+ 
+.component-text13 {
+  display: inline-block;
+}
+ 
+.component-fragment13 {
+  display: contents;
+}
+ 
+.component-content22 {
+  display: inline-block;
+}
+ 
+.component-text18 {
+  font-size: 16px;
+  font-family: "Noto Sans";
+  font-weight: 400;
+  line-height: 1.15;
+  text-transform: none;
+  text-decoration: none;
+}
+ 
+.component-fragment14 {
+  display: contents;
+}
+ 
+.component-text19 {
+  display: inline-block;
+}
+ 
+.component-fragment15 {
+  display: contents;
+}
+ 
+.component-content32 {
+  height: 67px;
+  display: inline-block;
+}
+ 
+.component-fragment16 {
+  display: contents;
+}
+ 
+.component-text23 {
+  display: inline-block;
+}
+ 
+.component-fragment17 {
+  display: contents;
+}
+ 
+.component-text24 {
+  display: inline-block;
+}
+ 
+.component-fragment18 {
+  display: contents;
+}
+ 
+.component-content42 {
+  display: inline-block;
+}
+ 
+.component-link2 {
+  line-height: 2;
+  text-decoration: underline;
+}
+ 
+.component-text27 {
+  line-height: 2;
+  text-decoration: underline;
+}
+ 
+.component-link4 {
+  line-height: 2;
+  text-decoration: underline;
+}
+ 
+.component-fragment19 {
+  display: contents;
+}
+ 
+.component-text28 {
+  display: inline-block;
+}
+ 
+.component-fragment20 {
+  display: contents;
+}
+ 
+.component-text29 {
+  display: inline-block;
+}
